@@ -13,6 +13,6 @@
 <h3 align="center">GitHub Stats 🌐</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Videira1711&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Videira1711&show_icons=true&theme=onedark&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Videira1711&show_icons=true&theme=onedark&locale=en&layout=compact&v=20251105T123234" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Videira1711&show_icons=true&theme=onedark&locale=en&count_private=true&hide_border=true&v=20251105T123234" alt="GitHub Stats" />
 </div>
