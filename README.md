@@ -29,15 +29,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Videira1711&layout=compact&theme=dark&hide_border=true" alt="most used languages" />
 </p>
 
----
-
-### About me
-- 🎓 Student of Software Engineering
-- 🔭 I’m currently working on: some project name
-- 🌱 I’m currently learning: React, Node.js, Docker
-- 👯 I’m looking to collaborate on open-source projects
-- ⚡ Fun fact: I love building small tools that automate boring tasks
-
----
-
-If you want, I can personalize this with your real name, short bio and social links.
