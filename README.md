@@ -1,8 +1,5 @@
 # António Videira
 
-<!-- Profile views -->
-![Profile Views](https://komarev.com/ghpvc/?username=Videira1711&color=0e75b6)
-
 <!-- GitHub Readme Stats: resumo -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Videira1711&show_icons=true&count_private=true&theme=tokyonight)
 
