@@ -1,12 +1,5 @@
 # António Videira
-<p align="left">
-  <img src="https://i.pinimg.com/originals/b0/fd/66/b0fd66f02729d04b662751251685b7f6.gif" alt="McQueen GIF 1" width="300" />
-  
-</p>
-
-
-<!-- Profile views -->
-![Profile Views](https://komarev.com/ghpvc/?username=Videira1711&color=0e75b6)
+<img src="https://i.pinimg.com/originals/b0/fd/66/b0fd66f02729d04b662751251685b7f6.gif" alt="McQueen GIF" width="100%" />
 
 <!-- GitHub Readme Stats: resumo (várias versões espalhadas) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Videira1711&show_icons=true&count_private=true&theme=tokyonight)
