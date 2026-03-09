@@ -8,9 +8,9 @@
 
 ### 🎯 About Me
 
-```text
+
 🎓 Studying Computer Engineering @ University of Aveiro
-```
+
 
 ---
 
