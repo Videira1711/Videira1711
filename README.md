@@ -12,10 +12,13 @@
 🎓 Studying Computer Engineering @ University of Aveiro
 ```
 
-
-
 ---
 
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,c,java,css,js,redis,html,git,linux,bash,ts&theme=light" />
+
+---
 
 ### 📫 Connect With Me
 
