@@ -17,7 +17,7 @@
 
 ### ◉ ABOUT
 
-📍 Aveiro, Portugal &nbsp;•&nbsp; 🎓 Computer Engineering &nbsp;•&nbsp
+📍 Aveiro, Portugal &nbsp;•&nbsp; 🎓 Computer Engineering &nbsp;
 
 <br>
 
