@@ -29,29 +29,17 @@
 
 <br>
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-DC143C?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-DC143C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-DC143C?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-DC143C?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-DC143C?style=flat-square&logo=javascript&logoColor=white)
-
-<br>
-
-**Web**
-
-![HTML](https://img.shields.io/badge/HTML-DC143C?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-DC143C?style=flat-square&logo=css3&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC143C?style=flat-square&logo=redis&logoColor=white)
-
-<br>
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-DC143C?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-DC143C?style=flat-square&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-DC143C?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-DC143C?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-DC143C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-DC143C?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-DC143C?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-DC143C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-DC143C?style=for-the-badge&logo=css3&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC143C?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-DC143C?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-DC143C?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-DC143C?style=for-the-badge&logo=gnubash&logoColor=white)
 
 <br>
 
