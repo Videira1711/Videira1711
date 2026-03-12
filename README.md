@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=1&section=header" width="400"/>
+---
 
 <br>
 
@@ -21,7 +21,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=1&section=header" width="400"/>
+---
 
 <br>
 
@@ -42,7 +42,8 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=1&section=header" width="400"/>
+---
+
 
 <br>
 
