@@ -44,13 +44,6 @@
 
 ---
 
-<br>
-
-<img src="https://i.pinimg.com/originals/b0/fd/66/b0fd66f02729d04b662751251685b7f6.gif" width="80" alt="Lightning McQueen"/>
-
-<br>
-
----
 
 <br>
 
