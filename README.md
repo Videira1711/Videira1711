@@ -17,7 +17,7 @@
 
 ### ◉ ABOUT
 
-📍 Aveiro, Portugal &nbsp;•&nbsp; 🎓 Computer Engineering &nbsp;•&nbsp; 💡 Backend & Systems
+📍 Aveiro, Portugal &nbsp;•&nbsp; 🎓 Computer Engineering &nbsp;•&nbsp
 
 <br>
 
