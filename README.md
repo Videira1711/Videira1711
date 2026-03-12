@@ -30,7 +30,6 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python-DC143C?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-DC143C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-DC143C?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-DC143C?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=white)
@@ -40,6 +39,14 @@
 ![Git](https://img.shields.io/badge/Git-DC143C?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-DC143C?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-DC143C?style=for-the-badge&logo=gnubash&logoColor=white)
+
+<br>
+
+---
+
+<br>
+
+<img src="https://media.giphy.com/media/mBYkXvLxQj6AOvDNvQ/giphy.gif" width="80" alt="Lightning McQueen"/>
 
 <br>
 
